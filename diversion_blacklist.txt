@@ -21,6 +21,7 @@
 0.0.0.0 wms-na.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 wms-na.assoc-amazon.com # block hard-coded whitelisted domain
 0.0.0.0 ws-eu.amazon-adsystem.com # block hard-coded whitelisted domain
+0.0.0.0 ws-na.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 s-na.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 z-na.amazon-adsystem.com # block hard-coded whitelisted domain
 
