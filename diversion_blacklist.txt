@@ -1,4 +1,4 @@
-# block hard-coded whitelisted domain
+# block hard-coded whitelisted domains
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 cdn.staticneo.com
