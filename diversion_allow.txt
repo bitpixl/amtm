@@ -1,0 +1,2 @@
+# allow ars technica video playback
+0.0.0.0 d2c8v52ll5s99u.cloudfront.net # allow ars technica video playback
