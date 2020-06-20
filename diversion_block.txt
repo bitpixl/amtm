@@ -28,5 +28,5 @@
 # block nvidia telemetry
 0.0.0.0 activation.gfe.nvidia.com # block nvidia telemetry
 
-# block KDE telemetry
-0.0.0.0 telemetry.kde.org # block KDE telemetry
+# block kde telemetry
+0.0.0.0 telemetry.kde.org # block kde telemetry
