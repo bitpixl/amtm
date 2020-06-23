@@ -3,3 +3,4 @@ d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
 
 # enable spotify desktop app
 ap.spotify.com # enable spotify desktop app
+i.scdn.co # enable spotify desktop app
