@@ -8,7 +8,6 @@
 0.0.0.0 flashtalking.com # block hard-coded whitelisted domain
 0.0.0.0 fls-na.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 ib.adnxs.com # block hard-coded whitelisted domain
-0.0.0.0 images-na.ssl-images-amazon.com # block hard-coded whitelisted domain
 0.0.0.0 ir-na.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 ir-uk.amazon-adsystem.com # block hard-coded whitelisted domain
 0.0.0.0 pagead2.googlesyndication.com # block hard-coded whitelisted domain
