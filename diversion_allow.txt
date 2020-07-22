@@ -7,4 +7,4 @@ ap.spotify.com # enable spotify desktop app
 charts-images.scdn.co # enable spotify desktop app
 i.scdn.co # enable spotify desktop app
 t.scdn.co # enable spotify desktop app
-sdk.privacy-center.org # telegraaf
+# sdk.privacy-center.org # telegraaf
