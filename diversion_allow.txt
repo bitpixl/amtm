@@ -7,4 +7,10 @@ ap.spotify.com # enable spotify desktop app
 charts-images.scdn.co # enable spotify desktop app
 i.scdn.co # enable spotify desktop app
 t.scdn.co # enable spotify desktop app
-# sdk.privacy-center.org # telegraaf
+
+# telegraaf.nl videos (privacy invasive!)
+# sdk.privacy-center.org # telegraaf videos
+
+# widevine installation firefox
+# google redirector to google servers
+redirector.gvt1.com # enable widevine install
