@@ -8,6 +8,7 @@ charts-images.scdn.co # enable spotify desktop app
 i.scdn.co # enable spotify desktop app
 t.scdn.co # enable spotify desktop app
 www.scdn.co # enable spotify website
+accounts.spotify.com # enable spotify website
 
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
