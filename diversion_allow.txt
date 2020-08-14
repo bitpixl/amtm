@@ -11,6 +11,7 @@ apresolve.spotify.com # enable mobile app
 audio-fa.scdn.co # enable mobile app
 www.scdn.co # enable spotify website
 accounts.spotify.com # enable spotify website
+community.spotify.com # enable spotify support forum
 
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
