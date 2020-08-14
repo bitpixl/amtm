@@ -7,6 +7,7 @@ ap.spotify.com # enable spotify desktop app
 charts-images.scdn.co # enable spotify desktop app
 i.scdn.co # enable spotify desktop app
 t.scdn.co # enable spotify desktop app
+apresolve.spotify.com # enable mobile app
 www.scdn.co # enable spotify website
 accounts.spotify.com # enable spotify website
 
