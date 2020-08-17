@@ -7,12 +7,15 @@ d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
 # charts-images.scdn.co # enable spotify desktop app
 # i.scdn.co # enable spotify desktop app
 # t.scdn.co # enable spotify desktop app
-apresolve.spotify.com # enable spotify
 # audio-fa.scdn.co # enable mobile app
 # dealer.spotify.com # enable spotify connect
 # www.scdn.co # enable spotify website
 # accounts.spotify.com # enable spotify website
 # community.spotify.com # enable spotify support forum
+apresolve.spotify.com
+images.scdn.co
+audio4-fa.scdn.co
+spclient.wg.spotify.com
 
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
