@@ -9,7 +9,7 @@ i.scdn.co # spotify desktop images
 
 #enable spotify mobile app
 audio-fa.scdn.co # spotify mobile app
-dealer.spotify.com # enable spotify connect
+# dealer.spotify.com # enable spotify connect
 
 # spclient.wg.spotify.com
 # t.scdn.co # enable spotify desktop app
