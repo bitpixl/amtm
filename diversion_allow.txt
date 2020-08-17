@@ -13,7 +13,7 @@ i.scdn.co # enable spotify desktop app
 # 3ap.spotify.com # enable spotify desktop app
 
 # enable spotify on the web
-www.scdn.co # enable spotify website
+# www.scdn.co # enable spotify website
 accounts.spotify.com # enable spotify website
 community.spotify.com # enable spotify support forum
 
