@@ -6,7 +6,9 @@ d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
 apresolve.spotify.com
 charts-images.scdn.co # enable spotify desktop app
 i.scdn.co # enable spotify desktop app
-# audio4-fa.scdn.co # enable mobile app
+
+#enable spotify mobile app
+audio4-fa.scdn.co # enable mobile app
 # spclient.wg.spotify.com
 # t.scdn.co # enable spotify desktop app
 # dealer.spotify.com # enable spotify connect
