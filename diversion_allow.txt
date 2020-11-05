@@ -7,3 +7,6 @@ d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
 # widevine installation firefox
 # google redirector to google servers
 redirector.gvt1.com # enable widevine install
+
+# enable embedded youtube videos (wowhead)
+s.ytimg.com # enable embedded youtube videos
