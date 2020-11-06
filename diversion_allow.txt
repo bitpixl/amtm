@@ -10,3 +10,7 @@ redirector.gvt1.com # enable widevine install
 
 # enable embedded youtube videos (wowhead)
 s.ytimg.com # enable embedded youtube videos
+
+# dwell.com
+assets.dwell.com # enable dwell.com
+images.dwell.com # enable dwell.com
