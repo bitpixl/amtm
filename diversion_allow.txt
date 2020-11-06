@@ -12,5 +12,5 @@ redirector.gvt1.com # enable widevine install
 s.ytimg.com # enable embedded youtube videos
 
 # dwell.com
-assets.dwell.com # enable dwell.com
-images.dwell.com # enable dwell.com
+assets.dwell.com # enable dwell
+images.dwell.com # enable dwell
