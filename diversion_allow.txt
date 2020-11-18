@@ -8,6 +8,7 @@ redirector.gvt1.com # enable widevine install
 # enable embedded youtube videos
 s.ytimg.com # enable embedded youtube videos
 youtube-nocookie.com # enable embedded youtube videos
+www.youtube-nocookie.com # enable embedded youtube videos
 
 # dwell.com
 assets.dwell.com # enable dwell
