@@ -1,9 +1,6 @@
 # enable ars technica video playback
 d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
 
-# telegraaf.nl videos (privacy invasive!)
-# sdk.privacy-center.org # telegraaf videos
-
 # widevine installation firefox
 # google redirector to google servers
 redirector.gvt1.com # enable widevine install
@@ -15,3 +12,6 @@ youtube-nocookie.com # enable embedded youtube videos
 # dwell.com
 assets.dwell.com # enable dwell
 images.dwell.com # enable dwell
+
+# telegraaf.nl videos (privacy invasive!)
+# sdk.privacy-center.org # telegraaf videos
