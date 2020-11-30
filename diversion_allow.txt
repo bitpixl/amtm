@@ -18,4 +18,7 @@ images.dwell.com # enable dwell
 # sdk.privacy-center.org # telegraaf videos
 
 # spotify
-heads4-ak.spotify.com.edgesuite.net # spotify allow
+# heads4-ak.spotify.com.edgesuite.net # spotify allow
+
+# enable npostart video playback
+tag.aticdn.net enable npostart video playback
