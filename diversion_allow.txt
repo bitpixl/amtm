@@ -17,8 +17,3 @@ images.dwell.com # enable dwell
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
 
-# spotify
-# heads4-ak.spotify.com.edgesuite.net # spotify allow
-
-# enable npostart video playback
-tag.aticdn.net enable npostart video playback
