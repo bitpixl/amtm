@@ -14,6 +14,9 @@ www.youtube-nocookie.com # enable embedded youtube videos
 assets.dwell.com # enable dwell
 images.dwell.com # enable dwell
 
+# nespresso.com payment
+live.adyen.com # nespresso.com payment
+
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
 
