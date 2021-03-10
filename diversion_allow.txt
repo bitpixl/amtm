@@ -22,3 +22,4 @@ live.adyen.com # nespresso.com payment
 
 # head-fi
 cdn.viglink.com #head-fi
+api.viglink.com #head-fi
