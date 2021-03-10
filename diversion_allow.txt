@@ -19,7 +19,3 @@ live.adyen.com # nespresso.com payment
 
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
-
-# head-fi
-cdn.viglink.com #head-fi
-api.viglink.com #head-fi
