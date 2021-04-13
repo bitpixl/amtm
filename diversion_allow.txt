@@ -19,3 +19,6 @@ live.adyen.com # nespresso.com payment
 
 # telegraaf.nl videos (privacy invasive!)
 # sdk.privacy-center.org # telegraaf videos
+
+# spotify web player
+audio-fa.scdn.co # enable spotify web player
