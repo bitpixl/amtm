@@ -1,5 +1,7 @@
+#use ipnetinfo to resolve domain to ip ranges
+
 #tutanota mail
-81.3.6.164
+81.3.6.160-81.3.6.175
 
 #github
-github.com
+140.82.112.0/20
