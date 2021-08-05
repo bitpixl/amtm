@@ -1,4 +1,4 @@
-#use ipnetinfo to resolve domain to ip/cidr
+#use ipnetinfo utility to resolve domain to ip/cidr
 
 #tutanota/tutamail.com
 81.3.6.160/28
