@@ -35,7 +35,6 @@
 0.0.0.0 nl.lgrecommends.lgappstv.com # block lg-tv ads-telemetry
 0.0.0.0 nl.lgtvsdp.com # block lg-tv ads-telemetry
 0.0.0.0 nl.rdx2.lgtvsdp.com # block lg-tv ads-telemetry
-0.0.0.0 nl.tvsdp.lgeapi.com # block lg-tv ads-telemetry
 
 # block lg-tv fw-updates
 # 0.0.0.0 snu.lge.com # block lg-tv fw-updates
