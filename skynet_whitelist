@@ -1,7 +1,7 @@
-#use ipnetinfo to resolve domain to ip ranges
+#use ipnetinfo to resolve domain to ip/cidr
 
-#tutanota mail
-81.3.6.160-81.3.6.175
+#tutanota/tutamail.com
+81.3.6.160/28
 
-#github
-140.82.112.0/20 "github.com"
+#github.com
+140.82.112.0/20
