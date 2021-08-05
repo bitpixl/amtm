@@ -32,6 +32,7 @@
 
 # block lg-tv ads-telemetry
 # based on: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+0.0.0.0 nl.info.lgsmartad.com # block lg-tv ads-telemetry
 0.0.0.0 nl.lgrecommends.lgappstv.com # block lg-tv ads-telemetry
 0.0.0.0 nl.lgtvsdp.com # block lg-tv ads-telemetry
 0.0.0.0 nl.rdx2.lgtvsdp.com # block lg-tv ads-telemetry
