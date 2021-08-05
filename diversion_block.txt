@@ -44,3 +44,7 @@
 # block lg-tv fw-updates
 # 0.0.0.0 snu.lge.com # block lg-tv fw-updates
 # 0.0.0.0 su.lge.com # block lg-tv fw-updates
+
+# netflix ads-telemetry
+0.0.0.0 ichnaea.netflix.com # netflix ads-telemetry
+0.0.0.0 customerevents.netflix.com # netflix ads-telemetry
