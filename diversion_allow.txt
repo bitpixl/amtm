@@ -1,24 +1,24 @@
 # enable ars technica video playback
-d2c8v52ll5s99u.cloudfront.net # enable ars technica video playback
+d2c8v52ll5s99u.cloudfront.net
 
 # widevine installation firefox
 # google redirector to google servers
-redirector.gvt1.com # enable widevine install
+redirector.gvt1.com
 
 # enable embedded youtube videos
-s.ytimg.com # enable embedded youtube videos
-youtube-nocookie.com # enable embedded youtube videos
-www.youtube-nocookie.com # enable embedded youtube videos
+s.ytimg.com
+youtube-nocookie.com
+www.youtube-nocookie.com
 
 # dwell.com
-assets.dwell.com # enable dwell
-images.dwell.com # enable dwell
+assets.dwell.com
+images.dwell.com
 
 # nespresso.com payment
-live.adyen.com # nespresso.com payment
+live.adyen.com
 
 # telegraaf.nl videos (privacy invasive!)
-# sdk.privacy-center.org # telegraaf videos
+# sdk.privacy-center.org
 
 # spotify web player
-audio-fa.scdn.co # enable spotify web player
+audio-fa.scdn.co
