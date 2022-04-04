@@ -1,50 +1,50 @@
 # block hard-coded whitelisted domains
-0.0.0.0 aax-eu.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 aax-us-east.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 ad2.netshelter.net # block hard-coded whitelisted domain
-0.0.0.0 assets.omidoo.com # block hard-coded whitelisted domain
-0.0.0.0 cdn.staticneo.com # block hard-coded whitelisted domain
-0.0.0.0 clarium.global.ssl.fastly.net # block hard-coded whitelisted domain
-0.0.0.0 flashtalking.com # block hard-coded whitelisted domain
-0.0.0.0 fls-na.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 ib.adnxs.com # block hard-coded whitelisted domain
-0.0.0.0 ir-na.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 ir-uk.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 pagead2.googlesyndication.com # block hard-coded whitelisted domain
-0.0.0.0 servedby.flashtalking.com # block hard-coded whitelisted domain
-0.0.0.0 tgdaily.com # block hard-coded whitelisted domain
-0.0.0.0 tgdaily.net # block hard-coded whitelisted domain
-0.0.0.0 vma.tgdaily.com # block hard-coded whitelisted domain
-0.0.0.0 vma.tgdaily.net # block hard-coded whitelisted domain
-0.0.0.0 wms-eu.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 wms-na.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 wms-na.assoc-amazon.com # block hard-coded whitelisted domain
-0.0.0.0 ws-eu.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 ws-na.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 s-na.amazon-adsystem.com # block hard-coded whitelisted domain
-0.0.0.0 z-na.amazon-adsystem.com # block hard-coded whitelisted domain
+0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 ad2.netshelter.net
+0.0.0.0 assets.omidoo.com
+0.0.0.0 cdn.staticneo.com
+0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 flashtalking.com
+0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 ib.adnxs.com
+0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-uk.amazon-adsystem.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 servedby.flashtalking.com
+0.0.0.0 tgdaily.com
+0.0.0.0 tgdaily.net
+0.0.0.0 vma.tgdaily.com
+0.0.0.0 vma.tgdaily.net
+0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 wms-na.assoc-amazon.com
+0.0.0.0 ws-eu.amazon-adsystem.com
+0.0.0.0 ws-na.amazon-adsystem.com
+0.0.0.0 s-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystem.com
 
 # block nvidia telemetry
-0.0.0.0 activation.gfe.nvidia.com # block nvidia telemetry
+0.0.0.0 activation.gfe.nvidia.com
 
 # block kde telemetry
-0.0.0.0 telemetry.kde.org # block kde telemetry
+0.0.0.0 telemetry.kde.org
 
 # block lg-tv ads-telemetry
-# based on: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
-0.0.0.0 nl.lgrecommends.lgappstv.com # block lg-tv ads-telemetry
-0.0.0.0 nl.lgtvsdp.com # block lg-tv ads-telemetry
-0.0.0.0 nl.rdx2.lgtvsdp.com # block lg-tv ads-telemetry
-0.0.0.0 nl.ibs.lgappstv.com # block lg-tv ads-telemetry
-0.0.0.0 ad.lgappstv.com # block lg-tv ads-telemetry
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net # block lg-tv ads-telemetry
-0.0.0.0 smartshare.lgtvsdp.com # block lg-tv ads-telemetry
-0.0.0.0 aic-ngfts.lge.com # block lg-tv ads-telemetry
+# source: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
+0.0.0.0 nl.lgrecommends.lgappstv.com
+0.0.0.0 nl.lgtvsdp.com
+0.0.0.0 nl.rdx2.lgtvsdp.com
+0.0.0.0 nl.ibs.lgappstv.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 aic-ngfts.lge.com
 
 # block lg-tv fw-updates
-# 0.0.0.0 snu.lge.com # block lg-tv fw-updates
-# 0.0.0.0 su.lge.com # block lg-tv fw-updates
+# 0.0.0.0 snu.lge.com
+# 0.0.0.0 su.lge.com
 
 # netflix ads-telemetry
-0.0.0.0 ichnaea.netflix.com # netflix ads-telemetry
-0.0.0.0 customerevents.netflix.com # netflix ads-telemetry
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 customerevents.netflix.com
