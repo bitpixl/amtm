@@ -1,13 +1,13 @@
 # block hard-coded whitelisted wildcard domains
-amazon-adsystem.com # block hard-coded whitelisted domain
-adnxs.com # block hard-coded whitelisted domain
-googlesyndication.com # block hard-coded whitelisted domain
-tgdaily.com # block hard-coded whitelisted domain
-tgdaily.net # block hard-coded whitelisted domain
-flashtalking.com # block hard-coded whitelisted domain
+amazon-adsystem.com
+adnxs.com
+googlesyndication.com
+tgdaily.com
+tgdaily.net
+flashtalking.com
 
 # block lg-tv ads-telemetry domains
-lgsmartad.com # block lg-tv ads-telemetry domains
-smartclip.com # block lg-tv ads-telemetry domains
-smartclip.net # block lg-tv ads-telemetry domains
-yumenetworks.com # block lg-tv ads-telemetry domains
+lgsmartad.com
+smartclip.com
+smartclip.net
+yumenetworks.com
