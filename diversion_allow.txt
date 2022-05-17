@@ -22,7 +22,3 @@ live.adyen.com
 
 # spotify web player
 audio-fa.scdn.co
-
-# wowup - wago.io
-cdn.intergient.com
-cdn.intergi.com
