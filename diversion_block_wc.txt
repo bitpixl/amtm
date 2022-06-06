@@ -7,7 +7,9 @@ tgdaily.net
 flashtalking.com
 
 # block lg-tv ads-telemetry domains
+edgesuite.net
 lgsmartad.com
-smartclip.com
+lgtvsdp.com
+smartclip.com	
 smartclip.net
-yumenetworks.com
+yumenetworks.com	
