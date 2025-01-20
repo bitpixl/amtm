@@ -34,19 +34,19 @@
 0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 ad.lgappstv.com
 # 0.0.0.0 nl.lgrecommends.lgappstv.com
-0.0.0.0 ibis.lgappstv.com
-0.0.0.0 ibs.lgappstv.com
-0.0.0.0 nl.ibs.lgappstv.com
-0.0.0.0 gfts.lge.com
-0.0.0.0 ngfts.lge.com
-0.0.0.0 cdpbeacon.lgtvcommon.com
-0.0.0.0 cdpsvc.lgtvcommon.com
-0.0.0.0 homeprv.lgtvcommon.com
+# 0.0.0.0 ibis.lgappstv.com
+# 0.0.0.0 ibs.lgappstv.com
+# 0.0.0.0 nl.ibs.lgappstv.com
+# 0.0.0.0 gfts.lge.com
+# 0.0.0.0 ngfts.lge.com
+# 0.0.0.0 cdpbeacon.lgtvcommon.com
+# 0.0.0.0 cdpsvc.lgtvcommon.com
+# 0.0.0.0 homeprv.lgtvcommon.com
 0.0.0.0 nudge.lgtvcommon.com
-0.0.0.0 rdl.lgtvcommon.com
+# 0.0.0.0 rdl.lgtvcommon.com
 0.0.0.0 recommend.lgtvcommon.com
-0.0.0.0 service.lgtvcommon.com
-0.0.0.0 nl.tvsdp.lgeapi.com
+# 0.0.0.0 service.lgtvcommon.com
+# 0.0.0.0 nl.tvsdp.lgeapi.com
 
 # block lg-tv fw-updates
 # 0.0.0.0 snu.lge.com
