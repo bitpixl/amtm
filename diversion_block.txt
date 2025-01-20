@@ -33,7 +33,7 @@
 # block lg-tv ads-telemetry
 0.0.0.0 lgad.cjpowercast.com
 0.0.0.0 ad.lgappstv.com
-0.0.0.0 nl.lgrecommends.lgappstv.com
+# 0.0.0.0 nl.lgrecommends.lgappstv.com
 0.0.0.0 ibis.lgappstv.com
 0.0.0.0 ibs.lgappstv.com
 0.0.0.0 nl.ibs.lgappstv.com
