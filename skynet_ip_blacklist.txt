@@ -1,4 +1,4 @@
-# firewall import blacklist URL "blacklist"
+# firewall import blacklist -URL- "blacklist"
 
 # https://www.greynoise.io/blog/stealthy-backdoor-campaign-affecting-asus-routers
 # comment: greynoise
