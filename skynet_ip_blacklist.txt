@@ -1,3 +1,4 @@
+# firewall import blacklist  "bitpixl"
 # https://www.greynoise.io/blog/stealthy-backdoor-campaign-affecting-asus-routers
 # comment: greynoise
 101.99.91.151
