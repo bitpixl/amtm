@@ -1,4 +1,4 @@
-# firewall import blacklist <this raw github list url> "blacklist"
+# firewall import blacklist (this raw list url) "blacklist"
 
 # https://www.greynoise.io/blog/stealthy-backdoor-campaign-affecting-asus-routers
 # comment: greynoise
