@@ -1,9 +1,10 @@
 # firewall import blacklist -URL- "blacklist"
 
 # https://www.greynoise.io/blog/stealthy-backdoor-campaign-affecting-asus-routers
-# comment: greynoise
 101.99.91.151
 101.99.94.173
 79.141.163.179
 111.90.146.237
 
+# skynet top 10 blocks (inbound) 02-06-2025
+109.205.213.0/24
