@@ -2,6 +2,7 @@
 
 # allow wireguard connection
 212.102.35.205
+146.70.175.92
 
 # allow proxy (twitch)
 149.126.218.192
