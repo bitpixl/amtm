@@ -31,19 +31,20 @@
 0.0.0.0 telemetry.kde.org
 
 # block lg-tv ads-telemetry
-# 0.0.0.0 lgad.cjpowercast.com
-# 0.0.0.0 ad.lgappstv.com
-# 0.0.0.0 homeprv.lgtvcommon.com
-# 0.0.0.0 nudge.lgtvcommon.com
-# 0.0.0.0 recommend.lgtvcommon.com
-# 0.0.0.0 service.lgtvcommon.com
-# 0.0.0.0 lgsmartad.com
-# 0.0.0.0 rdx2.lgtvsdp.com
-# 0.0.0.0 lgtvonline.lge.com
-# 0.0.0.0 ueiswp.com
+0.0.0.0 lgad.cjpowercast.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 homeprv.lgtvcommon.com
+0.0.0.0 nudge.lgtvcommon.com
+0.0.0.0 recommend.lgtvcommon.com
+0.0.0.0 service.lgtvcommon.com
+0.0.0.0 lgsmartad.com
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 lgtvonline.lge.com
+0.0.0.0 ueiswp.com
 0.0.0.0 mediaservices.cdn-apple.com
 
 # netflix ads-telemetry
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 customerevents.netflix.com
+
 
