@@ -1,8 +1,11 @@
 # firewall import whitelist -URL- "whitelist"
 
 # allow wireguard connection
-212.102.35.205
-146.70.175.92
+# 212.102.35.205
+# 146.70.175.92
 
 # allow proxy (twitch)
-149.126.218.192
+# 149.126.218.192
+
+# allow grapheneos updates
+45.88.230.12
