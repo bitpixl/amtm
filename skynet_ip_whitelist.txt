@@ -4,4 +4,4 @@
 45.88.230.12
 
 # allow tmbd images retrieval
-143.244.56.50
+tmdb-image-prod.b-cdn.net
