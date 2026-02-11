@@ -1,7 +1,4 @@
 # firewall import whitelist <raw github url> "whitelist"
 
-# to allow tmbd images retrieval
-# manually whitelist domain: tmdb-image-prod.b-cdn.net
-
 # allow grapheneos updates
 45.88.230.12
