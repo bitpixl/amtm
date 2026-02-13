@@ -7,3 +7,6 @@
 68.183.204.194
 146.190.237.6
 206.189.97.173
+
+# allow intro-skipper.org (jellyfin plugin)
+161.35.245.42
