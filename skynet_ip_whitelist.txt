@@ -10,3 +10,4 @@
 
 # allow intro-skipper.org (jellyfin plugin)
 161.35.245.42
+165.227.244.161
