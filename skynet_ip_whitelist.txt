@@ -2,3 +2,6 @@
 
 # allow grapheneos updates
 45.88.230.12
+
+# allow jellyfin plugins
+68.183.204.194
